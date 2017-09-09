@@ -1,0 +1,2521 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2017-09-09T00:37:31-04:00",
+    "num_results": 33,
+    "results": [
+        {
+            "section": "Briefing",
+            "subsection": "",
+            "title": "Florida, Trump, Equifax: Your Friday Evening Briefing",
+            "abstract": "Here’s what you need to know at the end of the day.",
+            "url": "https://www.nytimes.com/2017/09/08/briefing/florida-trump-equifax.html",
+            "byline": "By KAREN ZRAICK and SANDRA STEVENSON",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T18:20:24-04:00",
+            "created_date": "2017-09-08T17:56:01-04:00",
+            "published_date": "2017-09-08T17:56:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/briefing/08eveningss-slide-2MB6/08eveningss-slide-2MB6-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Hagen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/briefing/08eveningss-slide-2MB6/08eveningss-slide-2MB6-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Hagen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/briefing/08eveningss-slide-2MB6/08eveningss-slide-2MB6-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Hagen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/briefing/08eveningss-slide-2MB6/08eveningss-slide-2MB6-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Hagen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/briefing/08eveningss-slide-2MB6/08eveningss-slide-2MB6-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Hagen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xV5WRf"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Hurricane Irma Barrels Toward U.S., Threatening to Engulf Florida",
+            "abstract": "The storm prompted the largest evacuation in Florida history, with people scrambling into crowded shelters and jamming highways.",
+            "url": "https://www.nytimes.com/2017/09/08/us/hurricane-irma-miami-florida.html",
+            "byline": "By LIZETTE ALVAREZ and MARC SANTORA",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T23:56:33-04:00",
+            "created_date": "2017-09-08T20:39:29-04:00",
+            "published_date": "2017-09-08T20:39:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Irma (2017)",
+                "Hurricanes and Tropical Storms",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida",
+                "Miami (Fla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09miami-01/09miami-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Kren, right, pulled storm shutters across the front of his restaurant in Jensen Beach, Fla., as Hurricane Irma advanced.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09miami-01/09miami-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Kren, right, pulled storm shutters across the front of his restaurant in Jensen Beach, Fla., as Hurricane Irma advanced.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09miami-01/09miami-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Kren, right, pulled storm shutters across the front of his restaurant in Jensen Beach, Fla., as Hurricane Irma advanced.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09miami-01/09miami-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Kren, right, pulled storm shutters across the front of his restaurant in Jensen Beach, Fla., as Hurricane Irma advanced.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09miami-01/09miami-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Kren, right, pulled storm shutters across the front of his restaurant in Jensen Beach, Fla., as Hurricane Irma advanced.",
+                    "copyright": "Jason Henry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xV7Jpb"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Hurricane Irma Live Updates: ‘Leave Now,’ Florida Governor Warns",
+            "abstract": "One of the most potent Atlantic Ocean hurricanes ever recorded battered Turks and Caicos and the Bahamas on Friday, then made landfall in northern Cuba.",
+            "url": "https://www.nytimes.com/2017/09/08/us/hurricane-irma-florida.html",
+            "byline": "By THE NEW YORK TIMES",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T23:37:52-04:00",
+            "created_date": "2017-09-08T05:58:35-04:00",
+            "published_date": "2017-09-08T05:58:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Irma (2017)",
+                "Hurricanes and Tropical Storms"
+            ],
+            "org_facet": [
+                "National Hurricane Center"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Caribbean Area",
+                "Florida",
+                "Atlantic Ocean",
+                "Florida Keys",
+                "Turks and Caicos Islands",
+                "United States",
+                "Cuba"
+            ],
+            "multimedia": [],
+            "short_url": "https://nyti.ms/2gQoKgk"
+        },
+        {
+            "section": "Climate",
+            "subsection": "",
+            "title": "How Hurricane Irma Became So Huge and Destructive",
+            "abstract": "A mix of meteorological conditions has conspired over the past week to make the storm unusually large and powerful.",
+            "url": "https://www.nytimes.com/2017/09/08/climate/how-hurricane-irma-became-so-huge-and-destructive.html",
+            "byline": "By BRAD PLUMER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T18:38:50-04:00",
+            "created_date": "2017-09-08T18:38:50-04:00",
+            "published_date": "2017-09-08T18:38:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Irma (2017)",
+                "Hurricanes and Tropical Storms",
+                "Weather",
+                "Oceans and Seas"
+            ],
+            "org_facet": [
+                "National Hurricane Center",
+                "National Oceanic and Atmospheric Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/08IRMA/08IRMA-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma as it moved toward Florida on Friday.",
+                    "copyright": "National Oceanic and Atmospheric Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/08IRMA/08IRMA-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma as it moved toward Florida on Friday.",
+                    "copyright": "National Oceanic and Atmospheric Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/08IRMA/08IRMA-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 158,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma as it moved toward Florida on Friday.",
+                    "copyright": "National Oceanic and Atmospheric Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/08IRMA/08IRMA-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma as it moved toward Florida on Friday.",
+                    "copyright": "National Oceanic and Atmospheric Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/08IRMA/08IRMA-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1706,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma as it moved toward Florida on Friday.",
+                    "copyright": "National Oceanic and Atmospheric Administration"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xV8sqt"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Hurricane Irma: What’s Happened and What’s Next",
+            "abstract": "The Category 4 hurricane is advancing through the Caribbean and heading toward Florida.",
+            "url": "https://www.nytimes.com/2017/09/07/us/irma-florida-coverage.html",
+            "byline": "By CHRISTINE HAUSER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T14:40:15-04:00",
+            "created_date": "2017-09-07T15:23:26-04:00",
+            "published_date": "2017-09-07T15:23:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Irma (2017)",
+                "Hurricanes and Tropical Storms",
+                "Hurricane Harvey (2017)",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Antigua and Barbuda",
+                "Atlantic Ocean",
+                "Caribbean Area",
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/us/08xp-irmaguide-sub/08xp-irmaguide-sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma left a path of destruction in Orient Bay on the island of St. Martin.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/us/08xp-irmaguide-sub/08xp-irmaguide-sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma left a path of destruction in Orient Bay on the island of St. Martin.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/us/08xp-irmaguide-sub/08xp-irmaguide-sub-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma left a path of destruction in Orient Bay on the island of St. Martin.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/us/08xp-irmaguide-sub/08xp-irmaguide-sub-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma left a path of destruction in Orient Bay on the island of St. Martin.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/us/08xp-irmaguide-sub/08xp-irmaguide-sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1330,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hurricane Irma left a path of destruction in Orient Bay on the island of St. Martin.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xeNW7f"
+        },
+        {
+            "section": "World",
+            "subsection": "Americas",
+            "title": "Caribbean Islands Battered by One Hurricane Are Bracing for the Next",
+            "abstract": "Days after Hurricane Irma struck the Caribbean, the islands that bore the brunt of the storm are bracing for Hurricane Jose.",
+            "url": "https://www.nytimes.com/2017/09/08/world/americas/caribbean-islands-hurricane-irma-st-martin-barbuda-anguilla.html",
+            "byline": "By CARL JOSEPH, MEGAN SPECIA and KIRK SEMPLE",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T21:01:50-04:00",
+            "created_date": "2017-09-08T18:20:10-04:00",
+            "published_date": "2017-09-08T18:20:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricanes and Tropical Storms",
+                "Evacuations and Evacuees",
+                "Hurricane Irma (2017)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Anguilla",
+                "Antigua and Barbuda",
+                "Bahama Islands",
+                "Bimini (Bahamas)",
+                "Caribbean Area",
+                "Grand Bahama Island",
+                "St Martin (Caribbean)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09Caribbean1/09Caribbean1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Damage in Orient Bay on the Caribbean island of St. Martin, after the passage of Hurricane Irma.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09Caribbean1/09Caribbean1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Damage in Orient Bay on the Caribbean island of St. Martin, after the passage of Hurricane Irma.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09Caribbean1/09Caribbean1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Damage in Orient Bay on the Caribbean island of St. Martin, after the passage of Hurricane Irma.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09Caribbean1/09Caribbean1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Damage in Orient Bay on the Caribbean island of St. Martin, after the passage of Hurricane Irma.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09Caribbean1/09Caribbean1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1276,
+                    "width": 1914,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Damage in Orient Bay on the Caribbean island of St. Martin, after the passage of Hurricane Irma.",
+                    "copyright": "Lionel Chamoiseau/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xSn0pW"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "Life After the Storm: Children Who Survived Katrina Offer Lessons",
+            "abstract": "Now in their 20s, they urge the youngest survivors of Harvey and Irma to seek stability from one ‘solid anchor’ — a parent, teacher, pastor or sibling",
+            "url": "https://www.nytimes.com/2017/09/08/health/katrina-harvey-children.html",
+            "byline": "By BENEDICT CAREY",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T18:24:38-04:00",
+            "created_date": "2017-09-08T15:20:29-04:00",
+            "published_date": "2017-09-08T15:20:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Katrina (2005)",
+                "Hurricane Harvey (2017)",
+                "Hurricanes and Tropical Storms",
+                "Children and Childhood"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/science/00KATRINAKIDS1/00KATRINAKIDS1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Craig Jones, who grew up in New Orleans, was in 5th grade when Hurricane Katrina forced him and his family out. He returned immediately after graduating high school, in 2013. “I got here and it was the same place but not the same, if you feel what I’m saying,” he said.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/science/00KATRINAKIDS1/00KATRINAKIDS1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Craig Jones, who grew up in New Orleans, was in 5th grade when Hurricane Katrina forced him and his family out. He returned immediately after graduating high school, in 2013. “I got here and it was the same place but not the same, if you feel what I’m saying,” he said.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/science/00KATRINAKIDS1/00KATRINAKIDS1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Craig Jones, who grew up in New Orleans, was in 5th grade when Hurricane Katrina forced him and his family out. He returned immediately after graduating high school, in 2013. “I got here and it was the same place but not the same, if you feel what I’m saying,” he said.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/science/00KATRINAKIDS1/00KATRINAKIDS1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Craig Jones, who grew up in New Orleans, was in 5th grade when Hurricane Katrina forced him and his family out. He returned immediately after graduating high school, in 2013. “I got here and it was the same place but not the same, if you feel what I’m saying,” he said.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/science/00KATRINAKIDS1/00KATRINAKIDS1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Craig Jones, who grew up in New Orleans, was in 5th grade when Hurricane Katrina forced him and his family out. He returned immediately after graduating high school, in 2013. “I got here and it was the same place but not the same, if you feel what I’m saying,” he said.",
+                    "copyright": "Annie Flanagan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2eTvWYk"
+        },
+        {
+            "section": "World",
+            "subsection": "Americas",
+            "title": "Mexico Earthquake, Strongest in a Century, Kills Dozens",
+            "abstract": "The quake, which struck off the Pacific Coast, set off tsunami warnings and scattered frightened residents into the streets as far as Mexico City.",
+            "url": "https://www.nytimes.com/2017/09/08/world/americas/mexico-earthquake.html",
+            "byline": "By PAULINA VILLEGAS, ELISABETH MALKIN and KIRK SEMPLE",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T23:47:29-04:00",
+            "created_date": "2017-09-08T01:17:19-04:00",
+            "published_date": "2017-09-08T01:17:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Earthquakes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Mexico"
+            ],
+            "multimedia": [],
+            "short_url": "https://nyti.ms/2gPYR02"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Apocalyptic Thoughts Amid Nature’s Chaos? You Could Be Forgiven.",
+            "abstract": "Americans were excited about the eclipse, but hurricanes, wildfires, and an earthquake have some — and not just deeply religious people — thinking dark thoughts.",
+            "url": "https://www.nytimes.com/2017/09/08/us/hurricane-irma-earthquake-fires.html",
+            "byline": "By HENRY FOUNTAIN",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:08:12-04:00",
+            "created_date": "2017-09-08T18:37:21-04:00",
+            "published_date": "2017-09-08T18:37:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Irma (2017)",
+                "Religion and Belief",
+                "Hurricane Harvey (2017)",
+                "Wildfires",
+                "Earthquakes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/09CLIMATE/09CLIMATE-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partially collapsed hotel in Mexico on Friday.",
+                    "copyright": "Felix Marquez/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/09CLIMATE/09CLIMATE-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partially collapsed hotel in Mexico on Friday.",
+                    "copyright": "Felix Marquez/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/09CLIMATE/09CLIMATE-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partially collapsed hotel in Mexico on Friday.",
+                    "copyright": "Felix Marquez/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/09CLIMATE/09CLIMATE-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partially collapsed hotel in Mexico on Friday.",
+                    "copyright": "Felix Marquez/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/science/09CLIMATE/09CLIMATE-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partially collapsed hotel in Mexico on Friday.",
+                    "copyright": "Felix Marquez/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xSkgZM"
+        },
+        {
+            "section": "Business Day",
+            "subsection": "",
+            "title": "Equifax Hack Exposes Regulatory Gaps, Leaving Consumers Vulnerable",
+            "abstract": "Despite the wealth of sensitive information in their databases, credit bureaus don’t face the same kind of scrutiny and oversight that banks do.",
+            "url": "https://www.nytimes.com/2017/09/08/business/equifax.html",
+            "byline": "By TARA SIEGEL BERNARD and STACY COWLEY",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T20:21:15-04:00",
+            "created_date": "2017-09-08T13:26:03-04:00",
+            "published_date": "2017-09-08T13:26:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Credit Scores",
+                "Computer Security"
+            ],
+            "org_facet": [
+                "Equifax Inc"
+            ],
+            "per_facet": [
+                "Schneiderman, Eric T",
+                "Ted Lieu"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09EQUIFAX1/09EQUIFAX1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric T. Schneiderman, New York’s attorney general, on Wednesday. He has opened an investigation into the large-scale data breach disclosed by Equifax on Thursday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09EQUIFAX1/09EQUIFAX1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric T. Schneiderman, New York’s attorney general, on Wednesday. He has opened an investigation into the large-scale data breach disclosed by Equifax on Thursday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09EQUIFAX1/09EQUIFAX1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 121,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric T. Schneiderman, New York’s attorney general, on Wednesday. He has opened an investigation into the large-scale data breach disclosed by Equifax on Thursday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09EQUIFAX1/09EQUIFAX1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric T. Schneiderman, New York’s attorney general, on Wednesday. He has opened an investigation into the large-scale data breach disclosed by Equifax on Thursday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09EQUIFAX1/09EQUIFAX1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric T. Schneiderman, New York’s attorney general, on Wednesday. He has opened an investigation into the large-scale data breach disclosed by Equifax on Thursday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2wPtl6g"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "Seriously, Equifax? This Is a Breach No One Should Get Away With",
+            "abstract": "Equifax’s main job is to collect and maintain data. Now the hacking at the credit agency uncovers a gaping flaw in regulation over data storage.",
+            "url": "https://www.nytimes.com/2017/09/08/technology/seriously-equifax-why-the-credit-agencys-breach-means-regulation-is-needed.html",
+            "byline": "By FARHAD MANJOO",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T20:52:14-04:00",
+            "created_date": "2017-09-08T17:04:06-04:00",
+            "published_date": "2017-09-08T17:04:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Data Storage",
+                "Computer Security",
+                "Credit Scores",
+                "Cyberattacks and Hackers",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Equifax Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09STATE3/09STATE3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "There is only light regulation of companies that fail to securely store consumers&rsquo; data.",
+                    "copyright": "Bryan Anselm for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09STATE3/09STATE3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "There is only light regulation of companies that fail to securely store consumers&rsquo; data.",
+                    "copyright": "Bryan Anselm for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09STATE3/09STATE3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "There is only light regulation of companies that fail to securely store consumers&rsquo; data.",
+                    "copyright": "Bryan Anselm for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09STATE3/09STATE3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "There is only light regulation of companies that fail to securely store consumers&rsquo; data.",
+                    "copyright": "Bryan Anselm for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09STATE3/09STATE3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1321,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "There is only light regulation of companies that fail to securely store consumers&rsquo; data.",
+                    "copyright": "Bryan Anselm for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xRVtVx"
+        },
+        {
+            "section": "Your Money",
+            "subsection": "Identify Theft",
+            "title": "Equifax’s Instructions Are Confusing. Here’s What to Do Now.",
+            "abstract": "You’ll need a credit freeze. You’ll need a fraud alert. And don’t expect Equifax to be much help.",
+            "url": "https://www.nytimes.com/2017/09/08/your-money/identity-theft/equifaxs-instructions-are-confusing-heres-what-to-do-now.html",
+            "byline": "By RON LIEBER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:20:50-04:00",
+            "created_date": "2017-09-08T17:45:24-04:00",
+            "published_date": "2017-09-08T17:45:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Identity Theft"
+            ],
+            "org_facet": [
+                "Equifax Inc",
+                "TransUnion LLC",
+                "Experian PLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09MONEY/09MONEY-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Neubecker"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09MONEY/09MONEY-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Neubecker"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09MONEY/09MONEY-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 213,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Neubecker"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09MONEY/09MONEY-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Neubecker"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09MONEY/09MONEY-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1825,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Robert Neubecker"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xS9zXd"
+        },
+        {
+            "section": "World",
+            "subsection": "Middle East",
+            "title": "The Last Days of ISIS’ Capital: Airstrikes if You Stay, Land Mines if You Flee",
+            "abstract": "A Times reporter travels to Raqqa, the wounded heart of the Islamic State, and finds residents trapped by airstrikes, artillery fire and land mines.",
+            "url": "https://www.nytimes.com/2017/09/08/world/middleeast/raqqa-isis-islamic-state-syria-airstrikes.html",
+            "byline": "By SOMINI SENGUPTA",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T17:17:14-04:00",
+            "created_date": "2017-09-08T10:48:07-04:00",
+            "published_date": "2017-09-08T10:48:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Muslims and Islam"
+            ],
+            "org_facet": [
+                "Doctors Without Borders",
+                "Syrian Democratic Forces"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Raqqa (Syria)",
+                "Euphrates River",
+                "Deir al-Zour (Syria)",
+                "Syria"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/xxraqqa1/xxraqqa1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American airstrikes, aimed at wresting the Syrian city of Raqqa from the Islamic State, have killed hundreds of civilians and trapped others.",
+                    "copyright": "Delil Souleiman/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/xxraqqa1/xxraqqa1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American airstrikes, aimed at wresting the Syrian city of Raqqa from the Islamic State, have killed hundreds of civilians and trapped others.",
+                    "copyright": "Delil Souleiman/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/xxraqqa1/xxraqqa1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American airstrikes, aimed at wresting the Syrian city of Raqqa from the Islamic State, have killed hundreds of civilians and trapped others.",
+                    "copyright": "Delil Souleiman/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/xxraqqa1/xxraqqa1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American airstrikes, aimed at wresting the Syrian city of Raqqa from the Islamic State, have killed hundreds of civilians and trapped others.",
+                    "copyright": "Delil Souleiman/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/xxraqqa1/xxraqqa1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American airstrikes, aimed at wresting the Syrian city of Raqqa from the Islamic State, have killed hundreds of civilians and trapped others.",
+                    "copyright": "Delil Souleiman/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xi4sDk"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Facebook Wins, Democracy Loses",
+            "abstract": "The social network profits off letting anyone anonymously target voters with propaganda.",
+            "url": "https://www.nytimes.com/2017/09/08/opinion/facebook-wins-democracy-loses.html",
+            "byline": "By SIVA VAIDHYANATHAN",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T23:04:54-04:00",
+            "created_date": "2017-09-08T23:04:54-04:00",
+            "published_date": "2017-09-08T23:04:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Online Advertising",
+                "Political Advertising",
+                "Social Media",
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09vaidhyanathanWeb/09vaidhyanathanWeb-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stephen Lam/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09vaidhyanathanWeb/09vaidhyanathanWeb-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stephen Lam/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09vaidhyanathanWeb/09vaidhyanathanWeb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 111,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stephen Lam/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09vaidhyanathanWeb/09vaidhyanathanWeb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stephen Lam/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09vaidhyanathanWeb/09vaidhyanathanWeb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1197,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stephen Lam/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xVR5WC"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Russia’s Fake Americans",
+            "abstract": "The Kremlin’s stealth intrusion into the American election was broader than previously believed.",
+            "url": "https://www.nytimes.com/2017/09/08/opinion/russia-facebook-twitter-election.html",
+            "byline": "By THE EDITORIAL BOARD",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T22:26:38-04:00",
+            "created_date": "2017-09-08T22:26:38-04:00",
+            "published_date": "2017-09-08T22:26:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Social Media",
+                "Cyberwarfare and Defense",
+                "Presidential Election of 2016",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Twitter",
+                "Senate",
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09sat1/09sat1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Celia Jacobs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09sat1/09sat1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Celia Jacobs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09sat1/09sat1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 191,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Celia Jacobs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09sat1/09sat1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Celia Jacobs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09sat1/09sat1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1157,
+                    "width": 1151,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Celia Jacobs"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xRSDA6"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Republicans Chew Gum. Walk? Not So Much.",
+            "abstract": "It’s a super-heavy news time, and all the stories no longer involve the president saying something incredibly insensitive.",
+            "url": "https://www.nytimes.com/2017/09/08/opinion/trump-democrats-debt-limit.html",
+            "byline": "By GAIL COLLINS",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T21:57:40-04:00",
+            "created_date": "2017-09-08T21:57:40-04:00",
+            "published_date": "2017-09-08T21:57:40-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "National Debt (US)",
+                "Federal Budget (US)",
+                "Hurricane Harvey (2017)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Ryan, Paul D Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09collinsWeb/09collinsWeb-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Imagine being Paul Ryan.",
+                    "copyright": "Alex Wong/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09collinsWeb/09collinsWeb-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Imagine being Paul Ryan.",
+                    "copyright": "Alex Wong/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09collinsWeb/09collinsWeb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 135,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Imagine being Paul Ryan.",
+                    "copyright": "Alex Wong/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09collinsWeb/09collinsWeb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Imagine being Paul Ryan.",
+                    "copyright": "Alex Wong/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09collinsWeb/09collinsWeb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1460,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Imagine being Paul Ryan.",
+                    "copyright": "Alex Wong/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xSa8jV"
+        },
+        {
+            "section": "Opinion",
+            "subsection": "",
+            "title": "Betsy DeVos Ends a Campus Witch Hunt",
+            "abstract": "Liberals can learn from this ugly saga of creeping authoritarianism.",
+            "url": "https://www.nytimes.com/2017/09/08/opinion/betsy-devos-title-iv.html",
+            "byline": "By BRET STEPHENS",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T22:33:17-04:00",
+            "created_date": "2017-09-08T21:50:34-04:00",
+            "published_date": "2017-09-08T21:50:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex Crimes",
+                "Title IX (Gender Discrimination Legislation)",
+                "Colleges and Universities"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "DeVos, Elizabeth (1958- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09stephensWeb/09stephensWeb-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos spoke on Thursday at George Mason University about coming changes to campus sexual-assault policies.",
+                    "copyright": "Mike Theiler/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09stephensWeb/09stephensWeb-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos spoke on Thursday at George Mason University about coming changes to campus sexual-assault policies.",
+                    "copyright": "Mike Theiler/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09stephensWeb/09stephensWeb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos spoke on Thursday at George Mason University about coming changes to campus sexual-assault policies.",
+                    "copyright": "Mike Theiler/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09stephensWeb/09stephensWeb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos spoke on Thursday at George Mason University about coming changes to campus sexual-assault policies.",
+                    "copyright": "Mike Theiler/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/opinion/09stephensWeb/09stephensWeb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1359,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos spoke on Thursday at George Mason University about coming changes to campus sexual-assault policies.",
+                    "copyright": "Mike Theiler/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xVrXzb"
+        },
+        {
+            "section": "Climate",
+            "subsection": "",
+            "title": "How You Can Prepare to Evacuate Your Home for a Hurricane",
+            "abstract": "Here are some tips for getting ready: Make a plan, bring documents, close lids, clear the yard, blast the freezer.",
+            "url": "https://www.nytimes.com/2017/09/07/climate/hurricane-irma-evacuation-tips.html",
+            "byline": "By LIVIA ALBECK-RIPKA",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T10:52:20-04:00",
+            "created_date": "2017-09-07T09:00:46-04:00",
+            "published_date": "2017-09-07T09:00:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Evacuations and Evacuees",
+                "Floods",
+                "Hurricanes and Tropical Storms",
+                "Disasters and Emergencies",
+                "Hurricane Harvey (2017)",
+                "Hurricane Irma (2017)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Claire O'Neill/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Claire O'Neill/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Claire O'Neill/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Claire O'Neill/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/06/climate/floodprep-illo/floodprep-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 493,
+                    "width": 876,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Claire O'Neill/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xdK9H4"
+        },
+        {
+            "section": "Technology",
+            "subsection": "Personal Tech",
+            "title": "Wirecutter Editor Shares the Tech That Can Improve Your Life",
+            "abstract": "Jacqui Cheng, who leads The Wirecutter, a product recommendations site owned by The Times, has tested many consumer electronics products. Here is what stood out to her.",
+            "url": "https://www.nytimes.com/2017/09/06/technology/personaltech/wirecutter-editor-shares-the-tech-that-can-improve-your-life.html",
+            "byline": "By JACQUI CHENG",
+            "item_type": "Article",
+            "updated_date": "2017-09-06T17:21:33-04:00",
+            "created_date": "2017-09-06T17:21:33-04:00",
+            "published_date": "2017-09-06T17:21:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Product Tests",
+                "Smartphones"
+            ],
+            "org_facet": [
+                "Wirecutter, The"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/business/07TECHUSING1/07TECHUSING1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Cheng, editor in chief of The Wirecutter, playing electric violin.",
+                    "copyright": "Roger Kisby for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/business/07TECHUSING1/07TECHUSING1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Cheng, editor in chief of The Wirecutter, playing electric violin.",
+                    "copyright": "Roger Kisby for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/business/07TECHUSING1/07TECHUSING1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Cheng, editor in chief of The Wirecutter, playing electric violin.",
+                    "copyright": "Roger Kisby for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/business/07TECHUSING1/07TECHUSING1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Cheng, editor in chief of The Wirecutter, playing electric violin.",
+                    "copyright": "Roger Kisby for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/business/07TECHUSING1/07TECHUSING1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Cheng, editor in chief of The Wirecutter, playing electric violin.",
+                    "copyright": "Roger Kisby for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xbDXiP"
+        },
+        {
+            "section": "Arts",
+            "subsection": "",
+            "title": "‘Blade Runner 2049’: Harrison Ford, Ryan Gosling and the Creators Discuss the Sci-Fi Sequel and Rehash Old Arguments",
+            "abstract": "The “Blade Runner” sequel is coming, and Mr. Ford, Mr. Gosling, Ridley Scott and Denis Villeneuve talk about why they’re reviving it now.",
+            "url": "https://www.nytimes.com/2017/09/08/arts/blade-runner-2049-ryan-gosling-harrison-ford-ridley-scott-denis-villeneuve.html",
+            "byline": "By JEREMY EGNER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T13:18:29-04:00",
+            "created_date": "2017-09-08T05:00:24-04:00",
+            "published_date": "2017-09-08T05:00:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Blade Runner 2049 (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Ford, Harrison",
+                "Gosling, Ryan",
+                "Scott, Ridley",
+                "Villeneuve, Denis"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/10/arts/10BLADERUNNER2/10BLADERUNNER2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ana de Armas, left, and Ryan Gosling in &ldquo;Blade Runner 2049,&rdquo; a sequel to the 1982 science-fiction classic.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/10/arts/10BLADERUNNER2/10BLADERUNNER2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ana de Armas, left, and Ryan Gosling in &ldquo;Blade Runner 2049,&rdquo; a sequel to the 1982 science-fiction classic.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/10/arts/10BLADERUNNER2/10BLADERUNNER2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ana de Armas, left, and Ryan Gosling in &ldquo;Blade Runner 2049,&rdquo; a sequel to the 1982 science-fiction classic.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/10/arts/10BLADERUNNER2/10BLADERUNNER2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ana de Armas, left, and Ryan Gosling in &ldquo;Blade Runner 2049,&rdquo; a sequel to the 1982 science-fiction classic.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/10/arts/10BLADERUNNER2/10BLADERUNNER2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1111,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ana de Armas, left, and Ryan Gosling in &ldquo;Blade Runner 2049,&rdquo; a sequel to the 1982 science-fiction classic.",
+                    "copyright": "Warner Bros."
+                }
+            ],
+            "short_url": "https://nyti.ms/2gQcDQk"
+        },
+        {
+            "section": "Style",
+            "subsection": "",
+            "title": "Finding God in a Hot Slice of Pizza",
+            "abstract": "After her divorce, a mother and son who had been living by the rules of Orthodox Judaism decide to test (and taste) a new world of possibilities.",
+            "url": "https://www.nytimes.com/2017/09/08/style/modern-love-finding-god-in-a-hot-slice-of-pizza.html",
+            "byline": "By TOVA MIRVIS",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T00:00:01-04:00",
+            "created_date": "2017-09-08T00:00:01-04:00",
+            "published_date": "2017-09-08T00:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Pizza",
+                "Jews and Judaism",
+                "Kosher Foods and Products",
+                "Divorce, Separations and Annulments"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/fashion/10modern/10modern-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/fashion/10modern/10modern-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/fashion/10modern/10modern-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 238,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/fashion/10modern/10modern-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/fashion/10modern/10modern-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1633,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                }
+            ],
+            "short_url": "https://nyti.ms/2gPbEzX"
+        },
+        {
+            "section": "Movies",
+            "subsection": "",
+            "title": "Review: ‘It’ Brings Back Stephen King’s Killer Clown",
+            "abstract": "This new, updated adaptation follows a bunch of kids on the trail of an evil force.",
+            "url": "https://www.nytimes.com/2017/09/06/movies/it-review-stephen-king.html",
+            "byline": "By A. O. SCOTT",
+            "item_type": "Article",
+            "updated_date": "2017-09-06T11:49:47-04:00",
+            "created_date": "2017-09-06T09:01:28-04:00",
+            "published_date": "2017-09-06T09:01:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "It (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Muschietti, Andres",
+                "King, Stephen",
+                "Skarsgard, Bill (1990- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/arts/08IT/08IT-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new film adaptation of Stephen King&rsquo;s &ldquo;It&rdquo; stars Bill Skarsgard as Pennywise the clown.",
+                    "copyright": "Brooke Palmer/Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/arts/08IT/08IT-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new film adaptation of Stephen King&rsquo;s &ldquo;It&rdquo; stars Bill Skarsgard as Pennywise the clown.",
+                    "copyright": "Brooke Palmer/Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/arts/08IT/04box1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new film adaptation of Stephen King&rsquo;s &ldquo;It&rdquo; stars Bill Skarsgard as Pennywise the clown.",
+                    "copyright": "Brooke Palmer/Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/arts/08IT/08IT-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new film adaptation of Stephen King&rsquo;s &ldquo;It&rdquo; stars Bill Skarsgard as Pennywise the clown.",
+                    "copyright": "Brooke Palmer/Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/arts/08IT/04box1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new film adaptation of Stephen King&rsquo;s &ldquo;It&rdquo; stars Bill Skarsgard as Pennywise the clown.",
+                    "copyright": "Brooke Palmer/Warner Bros."
+                }
+            ],
+            "short_url": "https://nyti.ms/2xb07C4"
+        },
+        {
+            "section": "Food",
+            "subsection": "",
+            "title": "His Dream in Reach, an Immigrant Chef Is Suddenly Unsettled",
+            "abstract": "Suny Santana, brought to America as a child, was set to open a restaurant when he learned that the government may end his permission to stay.",
+            "url": "https://www.nytimes.com/2017/09/08/dining/phoenix-immigrant-chef-daca.html",
+            "byline": "By FERNANDA SANTOS",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T12:26:59-04:00",
+            "created_date": "2017-09-08T12:26:59-04:00",
+            "published_date": "2017-09-08T12:26:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Restaurants",
+                "Illegal Immigration",
+                "United States Politics and Government",
+                "Deferred Action for Childhood Arrivals"
+            ],
+            "org_facet": [
+                "Santana, Suny (Chef, Phoenix, AZ)",
+                "Taco Chelo (Restaurant, Phoenix, AZ)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Phoenix (Ariz)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/31/dining/13phoenix/00immigrant-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Suny Santana, left, and Aaron Chamberlin at the St. Francis restaurant in Phoenix, where Mr. Chamberlin hired Mr. Santana in 2011. The two plan to open Taco Chelo, a taqueria, in November.",
+                    "copyright": "Deanna Alejandra Dent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/31/dining/13phoenix/00immigrant-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Suny Santana, left, and Aaron Chamberlin at the St. Francis restaurant in Phoenix, where Mr. Chamberlin hired Mr. Santana in 2011. The two plan to open Taco Chelo, a taqueria, in November.",
+                    "copyright": "Deanna Alejandra Dent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/31/dining/13phoenix/00immigrant-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Suny Santana, left, and Aaron Chamberlin at the St. Francis restaurant in Phoenix, where Mr. Chamberlin hired Mr. Santana in 2011. The two plan to open Taco Chelo, a taqueria, in November.",
+                    "copyright": "Deanna Alejandra Dent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/31/dining/13phoenix/00immigrant-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Suny Santana, left, and Aaron Chamberlin at the St. Francis restaurant in Phoenix, where Mr. Chamberlin hired Mr. Santana in 2011. The two plan to open Taco Chelo, a taqueria, in November.",
+                    "copyright": "Deanna Alejandra Dent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/31/dining/13phoenix/00immigrant-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Suny Santana, left, and Aaron Chamberlin at the St. Francis restaurant in Phoenix, where Mr. Chamberlin hired Mr. Santana in 2011. The two plan to open Taco Chelo, a taqueria, in November.",
+                    "copyright": "Deanna Alejandra Dent for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xipbHg"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Mercurial Trump Rattles Republican Party Ahead of Midterms",
+            "abstract": "From siding with Democrats to inspiring Trump-like primary challengers, President Trump is shaking up the political environment ahead of the midterms.",
+            "url": "https://www.nytimes.com/2017/09/08/us/politics/trump-rattles-republicans-ahead-of-midterm-elections.html",
+            "byline": "By JONATHAN MARTIN and ALEXANDER BURNS",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:53:36-04:00",
+            "created_date": "2017-09-08T19:53:36-04:00",
+            "published_date": "2017-09-08T19:53:36-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2018)",
+                "United States Politics and Government",
+                "Elections, House of Representatives"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bannon, Stephen K",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/politics/09dc-trumppolitics-1/09dc-trumppolitics-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s political arm has aired ads against Senator Dean Heller, Republican of Nevada, while the president himself used a televised White House meeting with Mr. Heller to warn that he would be voted out if he did not back repeal of the Affordable Care Act.",
+                    "copyright": "Stephen Crowley/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/politics/09dc-trumppolitics-1/09dc-trumppolitics-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s political arm has aired ads against Senator Dean Heller, Republican of Nevada, while the president himself used a televised White House meeting with Mr. Heller to warn that he would be voted out if he did not back repeal of the Affordable Care Act.",
+                    "copyright": "Stephen Crowley/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/politics/09dc-trumppolitics-1/merlin-to-scoop-124953617-105394-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s political arm has aired ads against Senator Dean Heller, Republican of Nevada, while the president himself used a televised White House meeting with Mr. Heller to warn that he would be voted out if he did not back repeal of the Affordable Care Act.",
+                    "copyright": "Stephen Crowley/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/politics/09dc-trumppolitics-1/merlin-to-scoop-124953617-105394-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s political arm has aired ads against Senator Dean Heller, Republican of Nevada, while the president himself used a televised White House meeting with Mr. Heller to warn that he would be voted out if he did not back repeal of the Affordable Care Act.",
+                    "copyright": "Stephen Crowley/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/politics/09dc-trumppolitics-1/merlin-to-scoop-124953617-105394-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump’s political arm has aired ads against Senator Dean Heller, Republican of Nevada, while the president himself used a televised White House meeting with Mr. Heller to warn that he would be voted out if he did not back repeal of the Affordable Care Act.",
+                    "copyright": "Stephen Crowley/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xUGOKn"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "New White House Chief of Staff Has an Enforcer",
+            "abstract": "The first step in taming the White House, John F. Kelly believes, is installing a No. 2 who is willing to be hated.",
+            "url": "https://www.nytimes.com/2017/09/08/us/politics/john-kelly-white-house.html",
+            "byline": "By MAGGIE HABERMAN and GLENN THRUSH",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T20:37:51-04:00",
+            "created_date": "2017-09-08T17:20:13-04:00",
+            "published_date": "2017-09-08T17:20:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kelly, John F (1950- )",
+                "Nielsen, Kirstjen",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Washington (DC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-kelly1/09dc-kelly1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John F. Kelly, President Trump’s chief of staff, has been trying to impose order at the White House.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-kelly1/09dc-kelly1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John F. Kelly, President Trump’s chief of staff, has been trying to impose order at the White House.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-kelly1/09dc-kelly1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John F. Kelly, President Trump’s chief of staff, has been trying to impose order at the White House.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-kelly1/09dc-kelly1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John F. Kelly, President Trump’s chief of staff, has been trying to impose order at the White House.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-kelly1/09dc-kelly1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John F. Kelly, President Trump’s chief of staff, has been trying to impose order at the White House.",
+                    "copyright": "Al Drago for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xVUSmW"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "",
+            "title": "‘I Smell Cash’: How the A.T.F. Spent Millions Unchecked",
+            "abstract": "A pair of informants got $6 million and agents spent freely. The Justice Department fought to keep records of the operation secret.",
+            "url": "https://www.nytimes.com/2017/09/08/us/atf-tobacco-cigarettes.html",
+            "byline": "By MATT APUZZO",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T18:52:42-04:00",
+            "created_date": "2017-09-08T10:44:49-04:00",
+            "published_date": "2017-09-08T10:44:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Smoking and Tobacco",
+                "Smuggling",
+                "Informers"
+            ],
+            "org_facet": [
+                "Bureau of Alcohol, Tobacco and Firearms"
+            ],
+            "per_facet": [
+                "Cartes, Horacio"
+            ],
+            "geo_facet": [
+                "Virginia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-atf1/00dc-atf1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A warehouse used by the Bureau of Alcohol, Tobacco, Firearms and Explosives during a seven-year undercover tobacco operation in Bristol, Va.",
+                    "copyright": "Jacob Biba for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-atf1/00dc-atf1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A warehouse used by the Bureau of Alcohol, Tobacco, Firearms and Explosives during a seven-year undercover tobacco operation in Bristol, Va.",
+                    "copyright": "Jacob Biba for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-atf1/00dc-atf1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A warehouse used by the Bureau of Alcohol, Tobacco, Firearms and Explosives during a seven-year undercover tobacco operation in Bristol, Va.",
+                    "copyright": "Jacob Biba for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-atf1/00dc-atf1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A warehouse used by the Bureau of Alcohol, Tobacco, Firearms and Explosives during a seven-year undercover tobacco operation in Bristol, Va.",
+                    "copyright": "Jacob Biba for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-atf1/00dc-atf1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A warehouse used by the Bureau of Alcohol, Tobacco, Firearms and Explosives during a seven-year undercover tobacco operation in Bristol, Va.",
+                    "copyright": "Jacob Biba for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xhriuM"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "House Passes Hurricane Aid and Raises Debt Ceiling",
+            "abstract": "The House gave final approval to a fiscal deal that raises the debt ceiling and keeps the government funded until December, while also providing $15 billion in hurricane relief.",
+            "url": "https://www.nytimes.com/2017/09/08/us/politics/hurricane-aid-debt-ceiling.html",
+            "byline": "By THOMAS KAPLAN and MICHAEL D. SHEAR",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:36:57-04:00",
+            "created_date": "2017-09-08T10:27:18-04:00",
+            "published_date": "2017-09-08T10:27:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Hurricanes and Tropical Storms"
+            ],
+            "org_facet": [
+                "House of Representatives"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cong/09dc-cong-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Capitol Building in Washington. On Friday, lawmakers approved $15 billion in hurricane relief as part of a short-term measure that increases the nation’s borrowing authority and keeps the government funded until December.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cong/09dc-cong-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Capitol Building in Washington. On Friday, lawmakers approved $15 billion in hurricane relief as part of a short-term measure that increases the nation’s borrowing authority and keeps the government funded until December.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cong/merlin-to-scoop-126863447-505656-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Capitol Building in Washington. On Friday, lawmakers approved $15 billion in hurricane relief as part of a short-term measure that increases the nation’s borrowing authority and keeps the government funded until December.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cong/merlin-to-scoop-126863447-505656-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Capitol Building in Washington. On Friday, lawmakers approved $15 billion in hurricane relief as part of a short-term measure that increases the nation’s borrowing authority and keeps the government funded until December.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cong/merlin-to-scoop-126863447-505656-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Capitol Building in Washington. On Friday, lawmakers approved $15 billion in hurricane relief as part of a short-term measure that increases the nation’s borrowing authority and keeps the government funded until December.",
+                    "copyright": "Pete Marovich for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2gPD3lh"
+        },
+        {
+            "section": "Technology",
+            "subsection": "",
+            "title": "F.B.I. Investigates Uber Software Used to Monitor Lyft Drivers",
+            "abstract": "In another legal headache for Uber, federal investigators are looking into a past program called “Hell” that the ride-hailing company used to compete with rival Lyft.",
+            "url": "https://www.nytimes.com/2017/09/08/technology/fbi-investigates-uber-software-used-to-monitor-lyft-drivers.html",
+            "byline": "By MIKE ISAAC and WILLIAM K. RASHBAUM",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:48:15-04:00",
+            "created_date": "2017-09-08T14:40:44-04:00",
+            "published_date": "2017-09-08T14:40:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Car Services and Livery Cabs",
+                "Industrial Espionage"
+            ],
+            "org_facet": [
+                "Lyft Inc",
+                "Uber Technologies Inc",
+                "Federal Bureau of Investigation"
+            ],
+            "per_facet": [
+                "Kalanick, Travis"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09UBER1/09UBER1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber, the ride-hailing company, continues to grapple with the fallout from past actions under Travis Kalanick, its former chief.",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09UBER1/09UBER1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber, the ride-hailing company, continues to grapple with the fallout from past actions under Travis Kalanick, its former chief.",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09UBER1/09UBER1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 116,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber, the ride-hailing company, continues to grapple with the fallout from past actions under Travis Kalanick, its former chief.",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09UBER1/09UBER1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber, the ride-hailing company, continues to grapple with the fallout from past actions under Travis Kalanick, its former chief.",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/business/09UBER1/09UBER1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1281,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uber, the ride-hailing company, continues to grapple with the fallout from past actions under Travis Kalanick, its former chief.",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2gQvI4N"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Ted Cruz 2.0? Senator Adjusts With Trump in Office and Houston Under Water",
+            "abstract": "As he prepares for re-election next year, Senator Ted Cruz faces a challenge in helping millions of people — in his hometown, Houston, and beyond — rebuild after Hurricane Harvey.",
+            "url": "https://www.nytimes.com/2017/09/08/us/politics/ted-cruz-hurricane-harvey.html",
+            "byline": "By MATT FLEGENHEIMER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T05:00:25-04:00",
+            "created_date": "2017-09-08T05:00:25-04:00",
+            "published_date": "2017-09-08T05:00:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricane Harvey (2017)",
+                "Federal Budget (US)",
+                "Hurricane Sandy (2012)",
+                "United States Politics and Government",
+                "Federal Aid (US)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cruz, Ted"
+            ],
+            "geo_facet": [
+                "Houston (Tex)",
+                "Texas",
+                "New Jersey",
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cruz1/09dc-cruz1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz, Republican of Texas, visited Hurricane Harvey relief volunteers on Sunday at a church distributing supplies in Port Arthur, Tex.",
+                    "copyright": "Eric Thayer for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cruz1/09dc-cruz1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz, Republican of Texas, visited Hurricane Harvey relief volunteers on Sunday at a church distributing supplies in Port Arthur, Tex.",
+                    "copyright": "Eric Thayer for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cruz1/09dc-cruz1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz, Republican of Texas, visited Hurricane Harvey relief volunteers on Sunday at a church distributing supplies in Port Arthur, Tex.",
+                    "copyright": "Eric Thayer for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cruz1/09dc-cruz1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz, Republican of Texas, visited Hurricane Harvey relief volunteers on Sunday at a church distributing supplies in Port Arthur, Tex.",
+                    "copyright": "Eric Thayer for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/us/09dc-cruz1/09dc-cruz1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Ted Cruz, Republican of Texas, visited Hurricane Harvey relief volunteers on Sunday at a church distributing supplies in Port Arthur, Tex.",
+                    "copyright": "Eric Thayer for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2gPpB0y"
+        },
+        {
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "The Fake Americans Russia Created to Influence the Election",
+            "abstract": "Posing as ordinary citizens on Facebook and building “warlists” of Twitter accounts, suspected Russian agents intervened last year in the American democratic process.",
+            "url": "https://www.nytimes.com/2017/09/07/us/politics/russia-facebook-twitter-election.html",
+            "byline": "By SCOTT SHANE",
+            "item_type": "Article",
+            "updated_date": "2017-09-07T21:46:52-04:00",
+            "created_date": "2017-09-07T12:45:16-04:00",
+            "published_date": "2017-09-07T12:45:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Cyberwarfare and Defense",
+                "Presidential Election of 2016",
+                "Social Media",
+                "United States Politics and Government",
+                "News and News Media",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "FireEye Inc",
+                "Twitter"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Clinton, Hillary Rodham",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/world/08election-1/08election-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook&rsquo;s European headquarters in Dublin, above. On Facebook and Twitter, Russian fingerprints are on hundreds or thousands of fake accounts that posted anti-Hillary Clinton messages.",
+                    "copyright": "Chris Ratcliffe/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/world/08election-1/08election-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook&rsquo;s European headquarters in Dublin, above. On Facebook and Twitter, Russian fingerprints are on hundreds or thousands of fake accounts that posted anti-Hillary Clinton messages.",
+                    "copyright": "Chris Ratcliffe/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/world/08election-1/merlin-to-scoop-126951191-641058-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 124,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook&rsquo;s European headquarters in Dublin, above. On Facebook and Twitter, Russian fingerprints are on hundreds or thousands of fake accounts that posted anti-Hillary Clinton messages.",
+                    "copyright": "Chris Ratcliffe/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/world/08election-1/08election-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook&rsquo;s European headquarters in Dublin, above. On Facebook and Twitter, Russian fingerprints are on hundreds or thousands of fake accounts that posted anti-Hillary Clinton messages.",
+                    "copyright": "Chris Ratcliffe/Bloomberg"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/08/world/08election-1/merlin-to-scoop-126951191-641058-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1341,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook&rsquo;s European headquarters in Dublin, above. On Facebook and Twitter, Russian fingerprints are on hundreds or thousands of fake accounts that posted anti-Hillary Clinton messages.",
+                    "copyright": "Chris Ratcliffe/Bloomberg"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xdVuXM"
+        },
+        {
+            "section": "Sports",
+            "subsection": "Tennis",
+            "title": "Rafael Nadal and Kevin Anderson Advance to U.S. Open Final",
+            "abstract": "Nadal overwhelmed Juan Martin del Potro, 4-6, 6-0, 6-3, 6-2; Anderson, 31, beat Pablo Carreño Busta, 4-6, 7-5, 6-3, 6-4, to reach his first Grand Slam final.",
+            "url": "https://www.nytimes.com/2017/09/08/sports/tennis/us-open-mens-semifinals-results.html",
+            "byline": "By DAVID WALDSTEIN",
+            "item_type": "Article",
+            "updated_date": "2017-09-09T00:03:23-04:00",
+            "created_date": "2017-09-08T20:50:28-04:00",
+            "published_date": "2017-09-08T20:50:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Open (Tennis)",
+                "Tennis"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Anderson, Kevin (1986- )",
+                "Carreno Busta, Pablo (1991- )",
+                "Nadal, Rafael",
+                "del Potro, Juan Martin"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/sports/09jpmens-tennis/09jpmens-tennis-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Anderson in his 4-6, 7-5, 6-3, 6-4 victory over Pablo Carre&ntilde;o Busta. Anderson will face the winner of the other semifinal between Rafael Nadal and Juan Mart&iacute;n del Potro for the title.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/sports/09jpmens-tennis/09jpmens-tennis-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Anderson in his 4-6, 7-5, 6-3, 6-4 victory over Pablo Carre&ntilde;o Busta. Anderson will face the winner of the other semifinal between Rafael Nadal and Juan Mart&iacute;n del Potro for the title.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/sports/09jpmens-tennis/09jpmens-tennis-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Anderson in his 4-6, 7-5, 6-3, 6-4 victory over Pablo Carre&ntilde;o Busta. Anderson will face the winner of the other semifinal between Rafael Nadal and Juan Mart&iacute;n del Potro for the title.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/sports/09jpmens-tennis/09jpmens-tennis-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Anderson in his 4-6, 7-5, 6-3, 6-4 victory over Pablo Carre&ntilde;o Busta. Anderson will face the winner of the other semifinal between Rafael Nadal and Juan Mart&iacute;n del Potro for the title.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/sports/09jpmens-tennis/09jpmens-tennis-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Anderson in his 4-6, 7-5, 6-3, 6-4 victory over Pablo Carre&ntilde;o Busta. Anderson will face the winner of the other semifinal between Rafael Nadal and Juan Mart&iacute;n del Potro for the title.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xS5It1"
+        },
+        {
+            "section": "World",
+            "subsection": "Europe",
+            "title": "If You Build It, the Dutch Will Pedal",
+            "abstract": "Utrecht, the Netherlands’ fastest-growing city, is one of the world’s most bike-friendly places in one of the world’s most bike-friendly countries.",
+            "url": "https://www.nytimes.com/2017/09/06/world/europe/bicycling-utrecht-dutch-love-bikes-worlds-largest-bike-parking-garages.html",
+            "byline": "By CHRISTOPHER F. SCHUETZE",
+            "item_type": "Article",
+            "updated_date": "2017-09-07T04:32:59-04:00",
+            "created_date": "2017-09-06T12:49:47-04:00",
+            "published_date": "2017-09-06T12:49:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Bicycles and Bicycling",
+                "Infrastructure (Public Works)",
+                "Parking",
+                "Traffic Accidents and Safety"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Utrecht (Netherlands)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/07Bikes1/02Bikes1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cyclists crossing an intersection near the Central Station of Utrecht, the Netherlands.",
+                    "copyright": "Ilvy Njiokiktjien for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/07Bikes1/02Bikes1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cyclists crossing an intersection near the Central Station of Utrecht, the Netherlands.",
+                    "copyright": "Ilvy Njiokiktjien for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/07Bikes1/02Bikes1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cyclists crossing an intersection near the Central Station of Utrecht, the Netherlands.",
+                    "copyright": "Ilvy Njiokiktjien for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/07Bikes1/02Bikes1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cyclists crossing an intersection near the Central Station of Utrecht, the Netherlands.",
+                    "copyright": "Ilvy Njiokiktjien for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/07/world/07Bikes1/02Bikes1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cyclists crossing an intersection near the Central Station of Utrecht, the Netherlands.",
+                    "copyright": "Ilvy Njiokiktjien for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xaSJX8"
+        },
+        {
+            "section": "N.Y. / Region",
+            "subsection": "",
+            "title": "Review Board Recommends Stiffest Punishment for Officer in Garner Case",
+            "abstract": "The Civilian Complaint Review Board found that Officer Daniel Pantaleo used a chokehold and restricted Eric Garner’s breathing, a person familiar with the case said.",
+            "url": "https://www.nytimes.com/2017/09/08/nyregion/eric-garner-chokehold-review-board.html",
+            "byline": "By BENJAMIN MUELLER",
+            "item_type": "Article",
+            "updated_date": "2017-09-08T19:32:58-04:00",
+            "created_date": "2017-09-08T16:27:09-04:00",
+            "published_date": "2017-09-08T16:27:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Police Brutality, Misconduct and Shootings",
+                "Civil Rights and Liberties"
+            ],
+            "org_facet": [
+                "Civilian Complaint Review Board"
+            ],
+            "per_facet": [
+                "Garner, Eric"
+            ],
+            "geo_facet": [
+                "Staten Island (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/nyregion/09garner/09garner-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Garner&rsquo;s final words &mdash; &ldquo;I can&rsquo;t breathe&rdquo; &mdash; became a rallying cry for demonstrators against police violence.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/nyregion/09garner/09garner-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Garner&rsquo;s final words &mdash; &ldquo;I can&rsquo;t breathe&rdquo; &mdash; became a rallying cry for demonstrators against police violence.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/nyregion/09garner/09garner-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Garner&rsquo;s final words &mdash; &ldquo;I can&rsquo;t breathe&rdquo; &mdash; became a rallying cry for demonstrators against police violence.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/nyregion/09garner/09garner-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Garner&rsquo;s final words &mdash; &ldquo;I can&rsquo;t breathe&rdquo; &mdash; became a rallying cry for demonstrators against police violence.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/09/09/nyregion/09garner/09garner-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Garner&rsquo;s final words &mdash; &ldquo;I can&rsquo;t breathe&rdquo; &mdash; became a rallying cry for demonstrators against police violence.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2xSeWWa"
+        }
+    ]
+}
