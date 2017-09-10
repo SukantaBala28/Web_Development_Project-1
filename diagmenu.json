@@ -1,41 +1,10 @@
 {
-	"diagnostic": [
+	"sponsorship": [
 		{
-			"sponsorship": [
-				{
-					"identify_sponsor": "7",
-					"vision_clarity": "7",
-					"sponsoring_coalition": "7",
-					"sponsor_capability": "7"
-				}
-			],
-
-			"programme": [
-				{
-					"governance": "7",
-					"programme_management": "7",
-					"budgeting_resoucing": "7",
-					"programme_delivery": "7"
-				}
-			],
-
-			"organization": [
-				{
-					"business_requirements": "7",
-					"organization_design": "7",
-					"change_readliness": "7",
-					"implementation_planning": "7"
-				}
-			],
-
-			"people": [
-				{
-					"change_leadership": "7",
-					"stakeholder_engagement": "7",
-					"implementation_capability": "7",
-					"support_people's_journey": "7"
-				}
-			]
+			"identify_sponsor": "7",
+			"vision_clarity": "7",
+			"sponsoring_coalition": "7",
+			"sponsor_capability": "7"
 		}
-	]
+	]		
 }
