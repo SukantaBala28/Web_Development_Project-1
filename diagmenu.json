@@ -3,37 +3,37 @@
 		{
 			"sponsorship": [
 				{
-					"identify_sponsor": "7",
-					"vision_clarity": "7",
-					"sponsoring_coalition": "7",
-					"sponsor_capability": "7"
+					"identify_sponsor": "1",
+					"vision_clarity": "2",
+					"sponsoring_coalition": "3",
+					"sponsor_capability": "4"
 				}
 			],
 
 			"programme": [
 				{
-					"governance": "7",
-					"programme_management": "7",
+					"governance": "5",
+					"programme_management": "6",
 					"budgeting_resoucing": "7",
-					"programme_delivery": "7"
+					"programme_delivery": "8"
 				}
 			],
 
 			"organization": [
 				{
-					"business_requirements": "7",
-					"organization_design": "7",
-					"change_readliness": "7",
-					"implementation_planning": "7"
+					"business_requirements": "9",
+					"organization_design": "10",
+					"change_readliness": "11",
+					"implementation_planning": "12"
 				}
 			],
 
 			"people": [
 				{
-					"change_leadership": "7",
-					"stakeholder_engagement": "7",
-					"implementation_capability": "7",
-					"support_people's_journey": "7"
+					"change_leadership": "13",
+					"stakeholder_engagement": "14",
+					"implementation_capability": "15",
+					"support_people's_journey": "16"
 				}
 			]
 		}
