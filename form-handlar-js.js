@@ -80,7 +80,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
     xhr.send(encoded);
   }
 function loaded() {
-  console.log('contact form submission handler loaded successfully');
+  console.log('Free Assesment loader Form loaded successfully.');
   // bind to the submit event of our form
   var form = document.getElementById('googleFormAssessment');
   form.addEventListener("submit", handleFormSubmit, false);
