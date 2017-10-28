@@ -70,8 +70,6 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
         console.log( xhr.status, xhr.statusText )
         console.log(xhr.responseText);
         document.getElementById('thankyou_message').style.display = 'block';
-        location.reload(true);
-        document.getElementById('thankyou_message_assessment').style.display = 'block';
         return;
     };
     // url encode form data for sending as post data
